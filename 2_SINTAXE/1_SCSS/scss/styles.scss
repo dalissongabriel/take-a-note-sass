@@ -1,0 +1,18 @@
+$bgColor: #eee;
+$titleBackground: #222;
+$mainColor: #fff;
+
+// É obrigatório informar {}
+// ; obrigatório
+
+.container {
+  background-color: $bgColor;
+  padding: 20px;
+
+  #title {
+    background-color: $titleBackground;
+    color: $mainColor;
+    text-align: center;
+    padding: 10px;
+  }
+}
