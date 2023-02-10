@@ -1,3 +1,7 @@
+@charset "UTF-8";
+/* Comentários feitos assim são inclusos no .css */
+/*! Comentários feitos assim, são inclusos no CSS, até no momento de compressão; */
+/* Dá para interpolar assim 4 */
 .container {
   background-color: #eee;
   padding: 20px;

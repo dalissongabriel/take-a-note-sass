@@ -5,6 +5,11 @@ $mainColor: #fff;
 // É obrigatório informar {}
 // ; obrigatório
 
+// Comentários feitos assim não são inseridos no .css;
+/* Comentários feitos assim são inclusos no .css;
+/*! Comentários feitos assim, são inclusos no CSS, até no momento de compressão;
+/* Dá para interpolar assim #{1 + 3}; */
+
 .container {
   background-color: $bgColor;
   padding: 20px;
